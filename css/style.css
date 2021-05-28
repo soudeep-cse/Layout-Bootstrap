@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: rgb(163, 165, 42);
+    height: 100px;
+}
+
+
+.nav {
+    background-color: chartreuse;
+    height: 90px;
+}
+
+.left-content {
+    background-color: darkblue;
+    height: 400px;
+}
+
+
+.right-content {
+    background-color: darkmagenta;
+    height: 400px;
+}
+
+.mid-con{
+    background-color: cornflowerblue;
+    height: 400px;
+}
+
+
+.left{
+    background-color: grey;
+    height: 300px;
+}
+.middle{
+    background-color: indianred;
+    height: 300px;
+}
+.right{
+    background-color: khaki;
+    height: 300px;
+}
+
+.footer {
+    background-color: #d81b60;
+    height: 100px;
+}
